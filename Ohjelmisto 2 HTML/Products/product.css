@@ -8,12 +8,14 @@ body {
 
 #header {
     background-color: #1d3b50;
-    width: 100%;
+    width: 88%;
+    max-width: 2000px;
     height: 120px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
+    margin: 0 auto
 }
 
 nav {
@@ -62,7 +64,7 @@ nav a:active {
     position: absolute;
     width: 120px;
     height: auto;
-    left: 102px;
+    left: 98px;
     top: 0;
     z-index: 11;
 }
