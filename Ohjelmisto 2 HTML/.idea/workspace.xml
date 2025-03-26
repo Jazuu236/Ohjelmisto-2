@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="928bb2f8-9631-4e92-bf0d-2afba1ceee45" name="Changes" comment="First Website(Index.html)">
-      <change afterPath="$PROJECT_DIR$/Contact/images/logo.png" afterDir="false" />
-    </list>
+    <list default="true" id="928bb2f8-9631-4e92-bf0d-2afba1ceee45" name="Changes" comment="First Website project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +107,7 @@
       <workItem from="1742763009175" duration="935000" />
       <workItem from="1742808509450" duration="1278000" />
       <workItem from="1742853966376" duration="1646000" />
+      <workItem from="1742855802648" duration="534000" />
     </task>
     <task id="LOCAL−00001" summary="First Website(Index.html)">
       <option name="closed" value="true" />
@@ -117,7 +116,21 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1742746544251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="First Website project">
+      <option name="closed" value="true" />
+      <created>1742855845694</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1742855845694</updated>
+    </task>
+    <task id="LOCAL−00003" summary="First Website project">
+      <option name="closed" value="true" />
+      <created>1742855856754</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1742855856754</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Website(Index.html)" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Website(Index.html)" />
+    <MESSAGE value="First Website project" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Website project" />
   </component>
 </project>
